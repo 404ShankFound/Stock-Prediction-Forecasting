@@ -64,75 +64,87 @@ The table below summarizes the performance metrics for the two deep learning arc
 <td>Stacked LSTM (Train)</td>
 <td class="better-result">
 
-3.2522
-        &lt;/td&gt;
-        &lt;td class=&quot;better-result&quot;&gt;
-            $$
-            2.5308
-            $$
-        &lt;/td&gt;
-        &lt;td&gt;
-            $$
-            0.9680
-            $$
-        &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;Stacked LSTM (Test)&lt;/td&gt;
-        &lt;td class=&quot;better-result&quot;&gt;
-            $$
-            4.6305
-            $$
-        &lt;/td&gt;
-        &lt;td class=&quot;better-result&quot;&gt;
-            $$
-            3.2944
-            $$
-        &lt;/td&gt;
-        &lt;td class=&quot;better-result&quot;&gt;
-            $$
-            0.9094
-            $$
-        &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;Bi-LSTM (Train)&lt;/td&gt;
-        &lt;td&gt;
-            $$
-            3.1669
-            $$
-        &lt;/td&gt;
-        &lt;td&gt;
-            $$
-            2.5081
-            $$
-        &lt;/td&gt;
-        &lt;td class=&quot;better-result&quot;&gt;
-            $$
-            0.9696
-            $$
-        &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;Bi-LSTM (Test)&lt;/td&gt;
-        &lt;td&gt;
-            $$
-            6.4757
-            $$
-        &lt;/td&gt;
-        &lt;td&gt;
-            $$
-            5.3480
-            $$
-        &lt;/td&gt;
-        &lt;td&gt;
-            $$
-            0.8229
-            $$
-        &lt;/td&gt;
-    &lt;/tr&gt;
-&lt;/tbody&gt;
 
+3.2522
+
+</td>
+<td class="better-result">
+
+
+2.5308
+
+</td>
+<td>
+
+
+0.9680
+
+</td>
+</tr>
+<tr>
+<td>Stacked LSTM (Test)</td>
+<td class="better-result">
+
+
+4.6305
+
+</td>
+<td class="better-result">
+
+
+3.2944
+
+</td>
+<td class="better-result">
+
+
+0.9094
+
+</td>
+</tr>
+<tr>
+<td>Bi-LSTM (Train)</td>
+<td>
+
+
+3.1669
+
+</td>
+<td>
+
+
+2.5081
+
+</td>
+<td class="better-result">
+
+
+0.9696
+
+</td>
+</tr>
+<tr>
+<td>Bi-LSTM (Test)</td>
+<td>
+
+
+6.4757
+
+</td>
+<td>
+
+
+5.3480
+
+</td>
+<td>
+
+
+0.8229
+
+</td>
+</tr>
+</tbody>
 </table>
 
 Analysis and Conclusion
